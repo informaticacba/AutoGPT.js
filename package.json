@@ -1,6 +1,6 @@
 {
   "name": "AutoGPT-js-f743",
-  "private": true,
+  "private": false,
   "sideEffects": false,
   "scripts": {
     "build": "run-s build:*",
